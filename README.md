@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Udemy視聴時には動画内容のバージョンが古くなっており、すでに動作しないコードであったので写経のみ。
+
+例）Firebaseのプラグインが古かったりElevatedButtonの未使用など。
